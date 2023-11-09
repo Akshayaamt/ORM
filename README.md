@@ -43,8 +43,8 @@ class playersAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+![Alt text](<Screenshot 2023-11-09 143714.png>)
 
-![Alt text](<Screenshot 2023-11-09 114055.png>)
 
 
 
